@@ -33,4 +33,10 @@ Add
 "com.google.external-dependency-manager": "https://github.com/Gamee-Studio/external-dependency-manager.git?path=Assets/_Root#1.2.165",
 ```
 
+- for version 8.0.0
+```csharp
+"com.google.firebase.database": "https://github.com/Gamee-Studio/firebase-database.git?path=Assets/_Root#8.0.0",
+"com.google.firebase.auth": "https://github.com/Gamee-Studio/firebase-auth.git?path=Assets/_Root#8.0.0",
+"com.google.firebase.app": "https://github.com/Gamee-Studio/firebase-app.git?path=Assets/_Root#8.0.0",
+"com.google.external-dependency-manager": "https://github.com/Gamee-Studio/external-dependency-manager.git?path=Assets/_Root#1.2.165",
 To `Packages/manifest.json`
